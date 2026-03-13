@@ -21,30 +21,27 @@ Optional tools used:
 
 # Project Structure
 
+```
 pharos-data-engineer-test
 │
 ├── data
-│ └── DATASET Technical Test Data Engineer.xlsx
-│
+│   └── DATASET Technical Test Data Engineer.xlsx
 ├── src
-│ ├── extract.py
-│ ├── transform.py
-│ └── load.py
-│
-├── docs
-│ ├── query_monthly_sales.png
-│ ├── query_sales_per_month.png
-│ ├── query_sales_per_outlet.png
-│ └── query_top_product.png
-│
+│   ├── extract.py
+│   ├── transform.py
+│   └── load.py
 ├── sql
-│ ├── schema.sql
-│ └── analysis.sql
-│
+│   ├── schema.sql
+│   └── analysis.sql
+├── docs
+│   ├── query_monthly_sales.png
+│   ├── query_sales_per_month.png
+│   ├── query_sales_per_outlet.png
+│   └── query_top_product.png
 ├── main.py
 ├── requirements.txt
-├── .gitignore
 └── README.md
+```
 
 # Dataset
 
