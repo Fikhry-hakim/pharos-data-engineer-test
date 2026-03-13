@@ -243,20 +243,33 @@ https://docs.google.com/spreadsheets/d/1aeEsH3g43CrtQ-r3Cfd88N6V8SYMBDzSdGI-H_qw
 
 This spreadsheet shows aggregated sales data per outlet per month, making it easier to analyze outlet performance and monthly trends outside the database.
 
-# Screenshots / Results
+## Screenshots / Results
 
 Below are several analytical queries executed on the cleaned sales dataset.
 
-- Top selling products
-  ![](docs/query_top_products.png.png)
-- Sales per Month
-  ![](docs/query_sales_per_month.png.png)
-- Sales per outlet
-  ![](docs/query_sales_per_outlet.png.png)
-- Monthly sales trends
-  ![](docs/query_monthly_sales.png.png)
+### Top Selling Products
 
-These queries demonstrate how the cleaned dataset can be used for business analytics.
+![Top Products](docs/query_top_products.png)
+
+---
+
+### Sales per Outlet
+
+![Sales per Outlet](docs/query_sales_per_outlet.png)
+
+---
+
+### Sales per Month
+
+![Sales per Month](docs/query_sales_per_month.png)
+
+---
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](docs/query_monthly_sales.png)
+
+---
 
 # Conclusion
 
