@@ -113,7 +113,7 @@ sql/schema.sql
 Table structure:
 
 sales
-
+```
 | Column | Type |
 | id | SERIAL PRIMARY KEY |
 | sales_period | DATE |
@@ -124,7 +124,7 @@ sales
 | qty | INTEGER |
 | product_price | INTEGER |
 | actual_sales | INTEGER |
-
+```
 # SQL Analysis
 
 Analytical queries are stored in:
