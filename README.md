@@ -246,7 +246,7 @@ This spreadsheet shows aggregated sales data per outlet per month, making it eas
 # Screenshots / Results
 
 Below are several analytical queries executed on the cleaned sales dataset.
-```
+
 - Top selling products
   ![](docs/query_top_products.png.png)
 - Sales per Month
@@ -255,7 +255,7 @@ Below are several analytical queries executed on the cleaned sales dataset.
   ![](docs/query_sales_per_outlet.png.png)
 - Monthly sales trends
   ![](docs/query_monthly_sales.png.png)
-```
+
 These queries demonstrate how the cleaned dataset can be used for business analytics.
 
 # Conclusion
