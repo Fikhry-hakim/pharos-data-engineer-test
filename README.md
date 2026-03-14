@@ -196,7 +196,7 @@ Some columns were interpreted incorrectly by Excel. For example:
 
 ## 1 Install Dependencies
 
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 ## 2 Create Database
 
